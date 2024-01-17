@@ -1,5 +1,5 @@
 //Home Page
 
 export default function Home() {
-    return <div className=""></div>;
+    return <div className="">minh</div>;
 }
